@@ -16,7 +16,11 @@ You should see:
 ![image](https://github.com/nimikuma1/EMR-App/assets/166041511/284e1395-7d95-4701-a96f-235956b21149)
 
 We can select a patient from the drop down and click "Prior Auth" button.
-The ICD code and Procedural code gets updated automatically from ChatGPT.
-The Prior Auth Status gets updated as "Submitted".
-The corresponding member details are pushed to the Payor System Application automatically.
+The ICD code and Procedural code gets updated automatically from ChatGPT as shown below.
+The Prior Auth Status gets updated as "Submitted" as shown below.
 
+![image](https://github.com/nimikuma1/EMR-App/assets/166041511/66079a16-800e-4db2-a69d-e7bc627c12cd)
+
+The corresponding member details are pushed to the Payor System Application automatically as shown below.
+
+![image](https://github.com/nimikuma1/EMR-App/assets/166041511/0fc2ea18-3262-49d8-8e3f-a04e44735b5e)
