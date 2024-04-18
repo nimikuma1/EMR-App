@@ -5,6 +5,7 @@ We have deployed the application on AWS. We created EC2 Instance and launched an
 o	Provide basic user instructions in order to utilize the application fully and show off all features.
 
 Navigate to this URL: http://3.16.22.221:5000/
+
 Type in "priorauth" for Username as shown below
 Type in "DivyaNimisha123" for Password as shown below
 
