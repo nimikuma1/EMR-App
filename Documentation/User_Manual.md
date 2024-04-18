@@ -6,8 +6,9 @@ o	Provide basic user instructions in order to utilize the application fully and 
 
 Navigate to this URL: http://3.16.22.221:5000/
 
-Type in "priorauth" for Username as shown below
-Type in "DivyaNimisha123" for Password as shown below
+Type in "priorauth" for Username 
+
+Type in "DivyaNimisha123" for Password 
 
 ![image](https://github.com/nimikuma1/EMR-App/assets/166041511/d740bd6d-5a85-4084-b059-eee613833206)
 
