@@ -74,7 +74,7 @@ def signup():
 def priorauth():
     # Get question from form data
   # Get question from form data
-    openai.api_key = "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"
+    openai.api_key = "sk-proj-MBQjxEiylpZfNbZMdSRsT3BlbkFJDoEgQ1VVPD2D1CgyHpV5"
     emr_record = Emr.query.filter_by(memberName=request.json["member"]).first()
     
     if emr_record and emr_record.priorAuthStatus == '':
