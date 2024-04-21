@@ -18,7 +18,7 @@ You should see:
 ![image](https://github.com/nimikuma1/EMR-App/assets/166041511/284e1395-7d95-4701-a96f-235956b21149)
 
 We can select a patient from the drop down and click "Prior Auth" button.
-The ICD code and Procedural code gets updated automatically from ChatGPT as shown below.
+The ICD code and Procedural code gets updated automatically from ChatGPT as shown below. Once the ICD code and procedure codes are updated in the EMR database, a FHIR API is invoked to submit the prior auth data to the Payor system. The payor application sends the response as "Submitted". 
 The Prior Auth Status gets updated as "Submitted" as shown below.
 
 ![image](https://github.com/nimikuma1/EMR-App/assets/166041511/66079a16-800e-4db2-a69d-e7bc627c12cd)
